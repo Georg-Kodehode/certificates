@@ -4,7 +4,7 @@ Repository containing all my certificates.
 
 ## Overview
 | Certificate | Where I got the certificate | When I got the certificate |
-| ------------- |-----|-----|
+| :------------- |:-----|:-----|
 | AMO - IT UTVIKLER | JobLoop | May 2023 |
 | The Frontend Developer Career Path | Scrimba | May 2023 |
 | NSM grunnprinsipper for IKT-sikkerhet | Nasjonal sikkerhetsmyndighet | Oct 2022 |
